@@ -1,0 +1,9 @@
+com\TestCases\Deals_TestCase.class
+com\Utils\CommonFunctions.class
+com\TestCases\TestDummy.class
+com\Utils\BaseTest.class
+com\TestCases\Tasks_TestCase.class
+com\Utils\Constants.class
+com\Utils\RetryAnalyzer.class
+com\TestCases\Contact_TestCase.class
+com\Utils\Transformer.class

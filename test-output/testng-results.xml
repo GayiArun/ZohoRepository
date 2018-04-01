@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="508295" started-at="2018-03-31T16:37:34Z" finished-at="2018-03-31T16:46:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="508295" started-at="2018-03-31T16:37:34Z" finished-at="2018-03-31T16:46:02Z">
+      <class name="com.TestCases.Deals_TestCase">
+        <test-method status="PASS" signature="setups()[pri:0, instance:com.TestCases.Deals_TestCase@5e3a8624]" name="setups" is-config="true" duration-ms="8315" started-at="2018-03-31T16:42:50Z" finished-at="2018-03-31T16:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setups -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.TestCases.Deals_TestCase@5e3a8624]" name="Login" is-config="true" duration-ms="41605" started-at="2018-03-31T16:42:58Z" finished-at="2018-03-31T16:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Dealstest()[pri:0, instance:com.TestCases.Deals_TestCase@5e3a8624]" name="Dealstest" duration-ms="128168" started-at="2018-03-31T16:43:40Z" finished-at="2018-03-31T16:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dealstest -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.TestCases.Deals_TestCase@5e3a8624]" name="Logout" is-config="true" duration-ms="13333" started-at="2018-03-31T16:45:48Z" finished-at="2018-03-31T16:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="teardownresources()[pri:0, instance:com.TestCases.Deals_TestCase@5e3a8624]" name="teardownresources" is-config="true" duration-ms="269" started-at="2018-03-31T16:46:02Z" finished-at="2018-03-31T16:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownresources -->
+      </class> <!-- com.TestCases.Deals_TestCase -->
+      <class name="com.TestCases.Tasks_TestCase">
+        <test-method status="PASS" signature="setups()[pri:0, instance:com.TestCases.Tasks_TestCase@1bce4f0a]" name="setups" is-config="true" duration-ms="8360" started-at="2018-03-31T16:39:48Z" finished-at="2018-03-31T16:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setups -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.TestCases.Tasks_TestCase@1bce4f0a]" name="Login" is-config="true" duration-ms="39136" started-at="2018-03-31T16:39:56Z" finished-at="2018-03-31T16:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="TasksTests()[pri:0, instance:com.TestCases.Tasks_TestCase@1bce4f0a]" name="TasksTests" duration-ms="121592" started-at="2018-03-31T16:40:35Z" finished-at="2018-03-31T16:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TasksTests -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.TestCases.Tasks_TestCase@1bce4f0a]" name="Logout" is-config="true" duration-ms="13251" started-at="2018-03-31T16:42:37Z" finished-at="2018-03-31T16:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="teardownresources()[pri:0, instance:com.TestCases.Tasks_TestCase@1bce4f0a]" name="teardownresources" is-config="true" duration-ms="288" started-at="2018-03-31T16:42:50Z" finished-at="2018-03-31T16:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownresources -->
+      </class> <!-- com.TestCases.Tasks_TestCase -->
+      <class name="com.TestCases.Contact_TestCase">
+        <test-method status="PASS" signature="setups()[pri:0, instance:com.TestCases.Contact_TestCase@3bfdc050]" name="setups" is-config="true" duration-ms="9374" started-at="2018-03-31T16:37:34Z" finished-at="2018-03-31T16:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setups -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.TestCases.Contact_TestCase@3bfdc050]" name="Login" is-config="true" duration-ms="38053" started-at="2018-03-31T16:37:43Z" finished-at="2018-03-31T16:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Create_Contacts()[pri:0, instance:com.TestCases.Contact_TestCase@3bfdc050]" name="Create_Contacts" duration-ms="72879" started-at="2018-03-31T16:38:21Z" finished-at="2018-03-31T16:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Contacts -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.TestCases.Contact_TestCase@3bfdc050]" name="Logout" is-config="true" duration-ms="13374" started-at="2018-03-31T16:39:34Z" finished-at="2018-03-31T16:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="teardownresources()[pri:0, instance:com.TestCases.Contact_TestCase@3bfdc050]" name="teardownresources" is-config="true" duration-ms="253" started-at="2018-03-31T16:39:47Z" finished-at="2018-03-31T16:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownresources -->
+      </class> <!-- com.TestCases.Contact_TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
